@@ -13,7 +13,7 @@ The goal is to group customers with similar characteristics for targeted marketi
 - Data preprocessing pipeline
 - Optimal cluster detection
 - Visualization of results
-- Comparison between K-Means and DBSCAN
+- Comparison between K-Means and DBSCAN clustering algorithms
 - Model persistence for future use
 
 ### Recommended Additions:
